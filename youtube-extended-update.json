@@ -1,6 +1,6 @@
 {
-  "version": "v18.16.39",
-  "versionCode": 20220868,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220868/youtube-revanced-extended-magisk-v18.16.39-all.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v18.31.40",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/deltaxsingh/revanced-magisk-module/releases/download/1/youtube-revanced-extended-magisk-v18.31.40-all.zip",
+  "changelog": "https://raw.githubusercontent.com/deltaxsingh/revanced-magisk-module/update/build.md"
 }
